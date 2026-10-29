@@ -1,0 +1,30 @@
+body{
+background: linear-gradient(to right, rgb(186, 150, 247), rgb(220, 225, 255), rgb(135, 170, 250));
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+.texto{
+    border: 2px solid #000000;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 8px;
+    width: 500-px;
+    height: 140px;
+}
+.texto2{
+    color:  #f5f5f5;
+    border: 2px solid #ffffff;
+    padding: 15px;
+    background-color: #000000;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
