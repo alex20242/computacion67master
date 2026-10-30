@@ -23,12 +23,30 @@ background: linear-gradient(to right, rgb(186, 150, 247), rgb(220, 225, 255), rg
     
 }
 .texto2{
-    color:  #f5f5f5;
-    border: 2px solid #ffffff;
-    padding: 15px;
-    background-color: #000000;
-    border-radius: 5px;
-    display: inline-block;
+    border: 2px solid #ffff;
+    color: #f5f5f5;
+    padding: 20px;
+    background-color: #030303;
+    border-radius: 10px;
     text-align: center;
+    margin: auto;
+    margin-bottom: 8px;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+}
+
+.texto3{
+    border: 2px solid #000000;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 8px;
+    max-width: 500px;
+    height: auto;
+    display: block;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
 }
