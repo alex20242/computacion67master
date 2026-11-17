@@ -75,7 +75,7 @@ background: linear-gradient(to right, rgb(186, 150, 247), rgb(220, 225, 255), rg
   color: white;              
   border: none;              
   border-radius: 6px;         
-  margin-top: 15px;           
-  font-family: 'Lucida Sans', sans-serif; 
-  
+  margin-top: 15px; 
+  margin: auto;          
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
